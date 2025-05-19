@@ -1,5 +1,5 @@
 # Excel_Data_Science_Jobs_Analysis
-data analysis of data science job postings using Excel
+data analysis of data science skills and salary using Excel
 
 # Salary Analysis
 ![salary_analysis](image/salary_analysis.png)
