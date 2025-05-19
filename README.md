@@ -1,4 +1,4 @@
-# Excel_Data_Science_Jobs_Analysis
+# Excel_Data_Science_Skills_Salary_Analysis
 data analysis of data science skills and salary using Excel
 
 # Salary Analysis
